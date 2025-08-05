@@ -1,7 +1,3 @@
-<!-- Banner Image (Optional) -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%91%8B+I'm+Gabriel+Taxay;CS+Student+at+University+of+Maryland;Cloud+%7C+Software+%7C+Cybersecurity+Enthusiast" alt="Typing SVG" />
-</p>
 
 <h1 align="center">👨‍💻 Gabriel Taxay</h1>
 
