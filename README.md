@@ -1,5 +1,5 @@
 
-<h1 align="center">👨‍💻 Gabriel Taxay</h1>
+<h1 align="center"> Gabriel Taxay</h1>
 
 <p align="center">
   🎓 CS Major @ University of Maryland <br>
