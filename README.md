@@ -11,13 +11,16 @@
 
 ## 🧠 About Me
 
-- 🎓 I'm currently studying at **University of Maryland**
-- 🌱 Always learning and exploring new tech
-- 💡 Interested in:
+- I'm currently studying at **University of Maryland**
+- Always learning and exploring new tech
+- Interested in:
   - Cloud Infrastructure & DevOps (AWS)
   - Software Engineering (Python, Java, etc.)
   - Cybersecurity Tools & Practices
-- 📫 Contact me: **gabrielmark@icloud.com**
+- Currently Working On:
+  - Obtaining AWS Solutions Architect Cert
+  - Building out more open source projects
+- Contact me: **gabrielmark@icloud.com**
 
 ---
 
