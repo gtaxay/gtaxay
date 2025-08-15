@@ -48,5 +48,5 @@
 ---
 
 <p align="center">
-  <i>"The best way to predict the future is to invent it." – Alan Kay</i>
+  <i>"Logic will get you from A to B. Imagination will take you everywhere." – Albert Einstein</i>
 </p>
