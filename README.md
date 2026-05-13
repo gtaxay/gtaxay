@@ -19,7 +19,7 @@
   - Cybersecurity Tools & Practices
 - Currently Working On:
   - Obtaining AWS Solutions Architect Cert
-  - Building out more open source projects
+  - Building out EarnIt, my AI powered task locked screen time app
 - Contact me: **gabrielmark@icloud.com**
 
 ---
